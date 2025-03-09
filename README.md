@@ -1,2 +1,2 @@
 # LastPencil
-Very simple game woth bot
+Very simple game with bot
